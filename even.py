@@ -1,4 +1,4 @@
-'''Is the number 10 even and prime'''
+'''Is the number even or odd'''
 def is_even(number):
    return number %2==0
 number=4
